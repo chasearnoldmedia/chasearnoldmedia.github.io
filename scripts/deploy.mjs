@@ -34,7 +34,7 @@ try {
   No GitHub repository is connected yet.
 
   Create one and connect it first:
-      gh repo create chasearnoldphotography --public --source=. --remote=origin --push
+      gh repo create chasearnoldmedia/chasearnoldmedia.github.io --public --source=. --remote=origin --push
 
   Then run npm run deploy again.
 `);

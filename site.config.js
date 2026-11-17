@@ -32,11 +32,11 @@ export default {
   siteTitle: 'Chase Arnold — Digital Media',
   siteDescription: 'Portfolio of Chase Arnold. Photography, motion and visual identity work.',
   // Your live URL once deployed. Used for social share cards + sitemap.
-  siteUrl: 'https://misterchase.github.io/chasearnoldphotography',
+  siteUrl: 'https://chasearnoldmedia.github.io',
   // Set this when the site lives in a subfolder rather than at the root of a
   // domain — GitHub Pages does that. Must start with / and not end with one.
   // On a root domain (or your own custom domain) set it to ''.
-  basePath: '/chasearnoldphotography',
+  basePath: '',
 
   /* --- Contact & links ---------------------------------------------------- */
   email: 'chasearnold2004@gmail.com',

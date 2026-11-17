@@ -193,7 +193,7 @@ Fonts are right below that, with a few suggested pairings in the comments.
 
 Your site is live at:
 
-**https://misterchase.github.io/chasearnoldphotography/**
+**https://chasearnoldmedia.github.io/**
 
 To push your latest changes to it:
 
